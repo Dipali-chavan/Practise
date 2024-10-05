@@ -1,0 +1,8 @@
+
+GUI jio odu .............#TechHd + double enter ..........for Acs URl
+
+IOTACS URL: https://iotacs.jioconnect.com:8443/ftacs-digest/ACS
+
+UserName: RelianceJio
+
+Pwd: Jdev_1214
